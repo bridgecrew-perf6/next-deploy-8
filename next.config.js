@@ -1,4 +1,4 @@
 module.exportsv={
-  basePath: '/',
-  assetPrefix: '/'
+  basePath: '/next-deploy',
+  assetPrefix: '/next-deploy'
 }
