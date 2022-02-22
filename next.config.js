@@ -1,4 +1,4 @@
-module.exportsv={
-  basePath: '/next-deploy',
+module.exports = {
+  bbasePath: '/next-deploy',
   assetPrefix: '/next-deploy'
 }
