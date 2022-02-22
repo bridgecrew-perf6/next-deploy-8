@@ -1,4 +1,4 @@
 module.exports = {
-  bbasePath: '/next-deploy',
+  basePath: '/next-deploy',
   assetPrefix: '/next-deploy'
 }
